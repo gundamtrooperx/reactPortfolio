@@ -23,10 +23,10 @@ function Header() {
                         </div>
                     </li>
                     <li className="nav-item active">
-                        <a className="nav-link" href="#">Home <span className="sr-only">(current)</span></a>
+                        <a className="nav-link" href="/">About Me <span className="sr-only">(current)</span></a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="#">Projects and Portfolio</a>
+                        <a className="nav-link" href="/Portfolio">Projects and Portfolio</a>
                     </li>
                 </ul>
             </div>
