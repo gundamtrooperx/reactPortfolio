@@ -10,8 +10,8 @@ function AboutMe() {
         </Header>
         <div className="container">
             <div className="row">
-                <div className="col-md-4">
-                    <img src="/images/frankSelfie.jpg" alt="frankSelfie" className="img-fluid img-frankSelfie rounded-circle mx-auto mb-2">
+                <div className="col-md-4 justify-content-center">
+                    <img src="/images/frankSelfie.jpg" alt="frankSelfie" className="img-fluid img-frankSelfie mx-auto mb-2" id="frankSelfie">
 
                     </img>
                 </div>

@@ -6,7 +6,9 @@ function Header() {
             <a className="navbar-brand" href="/">Frank Carr</a>
             <ul className="social-list list-inline mb-0">
                 <li className="list-inline-item">
-                    <a className="fa fa-linkedin" href="https://www.linkedin.com/notifications/"></a>
+                    <a href="https://www.facebook.com/profile.php?id=100012400890099" class="fa fa-facebook" rel="noopener">
+                        
+                    </a>
                 </li>
             </ul>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

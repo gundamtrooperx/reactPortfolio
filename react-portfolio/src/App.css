@@ -2,7 +2,7 @@ footer{
   position: fixed;
   bottom: 0;
   width:100%;
-  height:7vh;
+  height:6vh;
 }
 
 .fa {
@@ -22,4 +22,13 @@ footer{
 .fa-linkedin {
   background: #007bb5;
   color: white;
+}
+
+#frankSelfie {
+  height: 100%;
+  width: 100%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  
 }
