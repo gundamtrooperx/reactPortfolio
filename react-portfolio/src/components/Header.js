@@ -7,8 +7,13 @@ function Header() {
             <ul className="social-list list-inline mb-0">
                 <li className="list-inline-item">
                     <a href="https://www.facebook.com/profile.php?id=100012400890099" class="fa fa-facebook" rel="noopener">
-                        
+
                     </a>
+
+                    <a href="https://github.com/gundamtrooperx?tab=repositories" class="fa fa-github" rel="noopener">
+
+                    </a>
+                    
                 </li>
             </ul>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
